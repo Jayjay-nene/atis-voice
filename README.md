@@ -1,4 +1,4 @@
-# ATIS Voice — Dictée universelle
+# Dictée universelle Groq — Dictée universelle
 
 Appuyez sur une touche, parlez, le texte apparaît au curseur — avec ponctuation et majuscules automatiques. Fonctionne dans toutes les applications. Transcription via l'API Groq (Whisper large-v3-turbo, < 1 seconde).
 
